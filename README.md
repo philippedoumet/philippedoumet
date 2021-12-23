@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @philippedoumet
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Xamarin Forms and Ethical Hacking.
+- 📫 How to reach me: @philippedoumet (ig).
